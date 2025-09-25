@@ -1,0 +1,2 @@
+@url = https://glowing-space-train-4j6q9gqq57j6hqqpx-3000.app.github.dev/
+GET {{url}}/api/V1?numero=7
